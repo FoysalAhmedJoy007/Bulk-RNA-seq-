@@ -4,7 +4,7 @@
 # Reads accessions from ../inputs/SRR_Acc_List.txt
 # Saves all FASTQ files in the root-level fastq/ directory
 
-# Data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE52778
+# Data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE173955
 
 mkdir -p ../fastq
 
